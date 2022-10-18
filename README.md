@@ -79,3 +79,4 @@ $131=200.000 (y max travel, mm)
 $132=200.000 (z max travel, mm)
 
 ![Drawbot](https://github.com/criscol64/DrawBot/blob/main/Drawbot1.JPG)
+![Drawbot2](https://github.com/criscol64/DrawBot/blob/main/Drawbot2.JPG)
