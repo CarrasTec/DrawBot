@@ -3,7 +3,7 @@ Para más información de cómo instalar librerías, mire: http://www.arduino.cc
 GRLB_Scara_ArduinoUno
 
 Video:  
-https://youtu.be/O2PyCFvjfS4
+https://youtu.be/bxr_yt7vd5k
 
 Using diferents versions of GRBL, Scara, ServoTimer2 From this pages:
 
